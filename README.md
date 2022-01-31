@@ -8,5 +8,16 @@ I’m currently working on my portfolio, I will create your website soon.
 :iphone: I’m currently learning Mobile development (Swift, Flutter).
 
 Skills :
-
-![VueJS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png)
+- JavaScript
+- VueJS
+- PHP
+- ReactJS
+- AngularJS
+- Laravel
+- SQL
+- MySQL
+- PostgreSQL
+- C
+- C++
+- Wordpress
+- Prestashop
